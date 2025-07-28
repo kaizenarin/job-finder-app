@@ -24,13 +24,24 @@ It allows users to search for jobs, view detailed listings, and save jobs locall
 - HTML5, CSS3
 
 ---
+## 📸 Screenshots
 
+### 🔍 Job Search Page
+![Job Search](./screenshots/job-listing-search-page.png)
+
+### 📄 Job Detail Page
+![Job Detail](./screenshots/job-detail-page.png)
+
+### ❤️ Saved Jobs Tab
+![Saved Jobs](./screenshots/saved-jobs-page.png)
+
+---
 ## 📦 Getting Started
 
 To run the project locally:
 
 ```bash
-git clone https://github.com/yourusername/job-finder-app.git
+git clone https://github.com/kaizenarin/job-finder-app.git
 cd job-finder-app
 npm install
 npm run dev
